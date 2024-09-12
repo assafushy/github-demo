@@ -1,1 +1,1 @@
-Hi Git
+Now I am in a branch
